@@ -107,3 +107,4 @@ export default function Capibilyties() {
 		</div>
 	);
 }
+// Update on 07/01/2024 10:00:37
