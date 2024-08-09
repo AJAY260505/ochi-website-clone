@@ -70,3 +70,4 @@ export default function Ratings() {
 		</div>
 	);
 }
+// Update on 08/09/2024 16:44:27
