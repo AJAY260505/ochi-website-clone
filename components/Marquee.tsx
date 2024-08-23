@@ -15,3 +15,4 @@ export default function Marquee({ title, className }: TMarqueeProps) {
 		</TextMarquee>
 	);
 }
+// Update on 08/23/2024 10:30:54
