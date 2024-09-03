@@ -136,3 +136,4 @@ export const slideUp = {
         transition: { duration: 0.8, ease: [0.76, 0, 0.24, 1], delay: 0.2 }
     }
 };
+// Update on 09/04/2024 03:01:34
