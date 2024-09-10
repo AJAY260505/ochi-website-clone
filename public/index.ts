@@ -83,4 +83,4 @@ export { default as toyota } from './toyota.svg';
 export { default as lexus } from './lexus.svg';
 export { default as aflorihtmic } from './aflomatric.svg';
 export { default as orderlion } from './orderlion.svg';
-export { default as blackBox } from './blackBox.svg';
+export { default as blackBox } from './blackBox.svg';// Update on 09/11/2024 04:52:51
