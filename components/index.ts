@@ -14,3 +14,4 @@ export { default as Curve } from './Curve/Curve';
 export { default as Ratings } from './Ratings';
 export { default as Heading } from './Heading';
 export { default as MobileNav } from './MobileNav';// Update on 09/15/2024 01:45:30
+// Update on 10/02/2024 01:18:16
