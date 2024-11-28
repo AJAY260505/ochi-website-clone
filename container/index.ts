@@ -44,3 +44,4 @@ export { default as Chelenge } from './workiz-page/Chelenge';
 export { default as Result } from './workiz-page/Result';
 export { default as Credit } from './workiz-page/Credit';
 export { default as VideoWorkiz } from './workiz-page/Video';// Update on 08/21/2024 15:48:31
+// Update on 11/29/2024 02:15:27
