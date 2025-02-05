@@ -16,3 +16,4 @@ export default function BackgroundImg({ src }: { src: StaticImageData }) {
 		</div>
 	);
 }
+// Update on 02/05/2025 13:12:57
